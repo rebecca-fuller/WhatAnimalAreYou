@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">What Animal Are You?</string>
+
+    <string name="questionOne">I eat a lot of food.</string>
+    <string name="questionTwo">I love being by myself.</string>
+    <string name="questionThree">I love being in the water.</string>
+    <string name="questionFour">I hate eating meat.</string>
+    <string name="questionFive">I\'m a very loud person.</string>
+    <string name="questionSix">I like being high above the ground.</string>
+    <string name="questionSeven">I can see very well.</string>
+    <string name="questionEight">I love nighttime.</string>
+
+    <string name="quizButton">Next</string>
+    <string name="retryButton">Try again</string>
+    <string name="animal_sound">Animal Sound</string>
+    <string name="sound">Make Animal Sound</string>
+
+    <string-array name="spinnerArray">
+        <item>Agree completely</item>
+        <item>Agree somewhat</item>
+        <item>Neutral</item>
+        <item>Disagree somewhat</item>
+        <item>Disagree completely</item>
+    </string-array>
+</resources>

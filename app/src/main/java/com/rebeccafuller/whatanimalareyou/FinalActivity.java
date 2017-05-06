@@ -18,8 +18,7 @@ public class FinalActivity extends AppCompatActivity {
     private Button soundButton;
 
     private String animal;
-    private int image = (R.drawable.dolphin);
-
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

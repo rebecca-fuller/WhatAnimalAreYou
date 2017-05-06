@@ -13,7 +13,7 @@
     <string name="quizButton">Next</string>
     <string name="retryButton">Try again</string>
     <string name="animal_sound">Animal Sound</string>
-    <string name="sound">Make Animal Sound</string>
+    <string name="sound">Enter</string>
 
     <string-array name="spinnerArray">
         <item>Agree completely</item>
